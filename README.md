@@ -1,4 +1,5 @@
-###PERSONAL TODO LIST
+### PERSONAL TODO LIST
 **BB-Dev**
-- [ ] Layout --> Conflict Package
-- [ ] Version and rolling
+- [ 1 ] Layout --> Conflict Package
+- [ 2 ] Version --> Rolling
+- [ 3 ] Repo --> Local repo also 
