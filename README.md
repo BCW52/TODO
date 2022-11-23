@@ -1,5 +1,5 @@
 ### PERSONAL TODO LIST
 **BB-Dev**
-- [ 1 ] Layout --> Conflict Package
-- [ 2 ] Version --> Rolling
-- [ 3 ] Repo --> Local repo also 
+- [ ] Layout --> Conflict Package
+- [ ] Version --> Rolling
+- [ ] Repo --> Local repo also 
