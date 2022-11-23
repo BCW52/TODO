@@ -1,5 +1,4 @@
-*PERSONAL TODO LIST*
+###PERSONAL TODO LIST
 **BB-Dev**
-1. Layout --> Conflict Package
-2. Version and rolling
-
+- [ ] Layout --> Conflict Package
+- [ ] Version and rolling
