@@ -5,13 +5,16 @@
 - [ ] Testing New Compression
 - [ ] Net Installer
 - [ ] BengalBoot Dev
-- [ ] Vscodestyle
+- [x] Vscodestyle
 - [ ] Improving build script
 - [ ] apacheman
 - [ ] nginxman
 - [ ] wptogo
 - [ ] custom php build from 7.4 to 8.3
 - [ ] Dedicated Mirror
+- [ ] SourceForge Mirror
+- [x] BengalWeb
+- [ ] Update bengal-build with live git url
 
 ## Tiger OS
 
@@ -21,3 +24,7 @@
 ## Shadow OS
 
 - [ ] Tails OS alternative
+
+## Black Arch
+
+- [ ] Possible Contribution on Black Arch
