@@ -12,9 +12,11 @@
 - [ ] wptogo
 - [ ] custom php build from 7.4 to 8.3
 - [ ] Dedicated Mirror
-- [ ] SourceForge Mirror
+- [X] SourceForge Mirror
 - [x] BengalWeb
-- [ ] Update bengal-build with live git url
+- [x] bn-oh-my-zsh error
+- [x] Error tracking on bengalboot
+- [X] Update bengal-build with live git url
 
 ## Tiger OS
 
